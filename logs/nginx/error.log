@@ -1,0 +1,4 @@
+2023/10/24 02:09:12 [error] 10340#3120: *18677 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading response header from upstream, client: 127.0.0.1, server: , request: "POST /wp-admin/admin-ajax.php HTTP/1.0", upstream: "fastcgi://127.0.0.1:10008", host: "skillwill-homework.local", referrer: "http://skillwill-homework.local/wp-admin/edit.php?post_type=project"
+2023/10/30 15:34:06 [alert] 12504#17660: the event "ngx_master_12504" was not signaled for 5s
+2023/10/30 15:36:06 [alert] 6864#11552: the event "ngx_master_6864" was not signaled for 5s
+2023/10/30 15:39:31 [alert] 15844#14296: OpenEvent("ngx_master_2696") failed (2: The system cannot find the file specified)
